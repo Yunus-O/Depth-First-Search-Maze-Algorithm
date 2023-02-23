@@ -1,3 +1,4 @@
+![IMG](https://miro.medium.com/v2/resize:fit:640/format:webp/1*KS6LQjfnwaG_vlN0BtBlDw.png)
 # Depth-First-Search-Maze-Algorithm
 
 1. Create LIFO stack of frontier and Explored Cells
