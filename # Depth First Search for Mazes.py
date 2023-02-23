@@ -32,9 +32,6 @@ frontier=[start]
 # DFS Function:
 def DFS(m):
     
-    
- 
-
     # Dictionary to visualize path of agent
     dfsPath= {}
 
